@@ -1,0 +1,9 @@
+@media screen and (max-width:600){
+    .header-father{
+        background-image: url(../imagens/spidermanheader_mobile.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        
+    }
+
+}
